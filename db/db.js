@@ -1,0 +1,1 @@
+exports.mongoUrl = 'mongodb+srv://admin:uo5sgXzc9tz9mdWo@cluster0.c84ve12.mongodb.net/?retryWrites=true&w=majority'
